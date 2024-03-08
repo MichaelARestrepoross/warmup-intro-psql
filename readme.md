@@ -1,8 +1,8 @@
-#SQL code warmup
+# SQL code warmup
 
 This is a warmup exercise for the class to review the basics of SQL
 
-##Getting started
+## Getting started
 
 - clone this repository
 - cd into to directory
@@ -10,7 +10,7 @@ This is a warmup exercise for the class to review the basics of SQL
 - psql
 - \i videogames.sql to run the file videogames.sql
 
-##instructions
+## instructions
 
 You will write your code between the `--` lines for each echo that is given.
 
